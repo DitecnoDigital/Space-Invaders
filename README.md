@@ -8,7 +8,7 @@ Tutorial sobre como realizar "Space Invaders" en lenguaje C++ donde puedes ver e
 ### ⭐️Youtube:
 
  #### 🕹 Space Invaders
- [![](https://img.shields.io/badge/YouTube-Tetris-red)](https://www.youtube.com/watch?v=NApYvZYtbAM)
+ [![](https://img.shields.io/badge/YouTube-SpaceInvaders-red)](https://www.youtube.com/watch?v=NApYvZYtbAM)
 
 
  
