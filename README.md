@@ -1,6 +1,6 @@
 
 
-![This is me](https://github.com/DitecnoDigital/Tetris/blob/main/PortadaTetris.png)
+![This is me](https://github.com/DitecnoDigital/Space-Invaders/blob/main/Miniatura.png)
 
 # Space-Invaders
 Tutorial de como realizar "Tetris" en  lenguaje C++ donde puedes ver el paso a paso en:
