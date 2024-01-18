@@ -3,12 +3,12 @@
 ![This is me](https://github.com/DitecnoDigital/Space-Invaders/blob/main/Miniatura.png)
 
 # Space-Invaders
-Tutorial de como realizar "Tetris" en  lenguaje C++ donde puedes ver el paso a paso en:
+Tutorial sobre como realizar "Space Invaders" en lenguaje C++ donde puedes ver el paso a paso en:
 
 ### ⭐️Youtube:
 
- #### 🕹 Tetris
- [![](https://img.shields.io/badge/YouTube-Tetris-red)](https://www.youtube.com/watch?v=KigwRJtYZiI)
+ #### 🕹 Space Invaders
+ [![](https://img.shields.io/badge/YouTube-Tetris-red)](https://www.youtube.com/watch?v=NApYvZYtbAM)
 
 
  
