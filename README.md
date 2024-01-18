@@ -34,13 +34,13 @@ Tutorial sobre como realizar "Space Invaders" en lenguaje C++ donde puedes ver e
  
  
 
-El código Fuente se encuentra en este repositorio, archivo con extención cpp.
+El código Fuente se encuentra en este repositorio, archivos con extención cpp.
 Esta realizado bajo la plataforma linux. Entonces tener ciertas consideraciones en diferentes Sistemas Operativos. 
 
     
     Los Recursos como Fuentes y Sprites se encuentran en este mismo repositorio.
-    Los encabezados de las clases Board,Parts, Sound,UI tienen extención .hpp 
-    y el desarrollo de los metodos y contructores Board,Parts.... tienen extención .cpp
+    Los encabezados de las clases Player, Enemie, Bullet, Muro. Tienen extención .hpp 
+    y el desarrollo de los metodos y contructores Player, Enemie.... Tienen extención .cpp
     
 
 ### Tutorial para  instalar MinGW para usar g++ en la consola:
@@ -54,7 +54,7 @@ Esta realizado bajo la plataforma linux. Entonces tener ciertas consideraciones 
 
  ### Para compilar desde la terminal escribí la siguiente linea:        
 
-    g++ main.cpp Board.cpp Parts.cpp UI.cpp Sounds.cpp -lsfml-system -lsfml-window -lsfml-graphics -lsfml-audio -o Game
+    g++ main.cpp Player.cpp Bullet.cpp Enemie.cpp Muro.cpp -lsfml-system -lsfml-window -lsfml-graphics -o Game
 
 ### Realizado por:
             Juan José Läderach con fines educativos el 14 de octubre del 2023
