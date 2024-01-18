@@ -57,7 +57,7 @@ Esta realizado bajo la plataforma linux. Entonces tener ciertas consideraciones 
     g++ main.cpp Player.cpp Bullet.cpp Enemie.cpp Muro.cpp -lsfml-system -lsfml-window -lsfml-graphics -o Game
 
 ### Realizado por:
-            Juan José Läderach con fines educativos el 14 de octubre del 2023
+            Juan José Läderach con fines educativos el 18 de enero del 2024
 
 
 ## Puedes seguirme en:
